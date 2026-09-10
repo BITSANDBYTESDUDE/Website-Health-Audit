@@ -66,6 +66,7 @@ function SiteHeader() {
           </Link>
           <span className="mx-1" />
           <ThemeToggle />
+          <a href="http://bitsandbytesdude.vercel.app" target="_blank" rel="noopener noreferrer" className="ml-4 text-sm font-medium text-muted-foreground hover:text-foreground">The SaaS or web application created by BITSANDBYTESDUDE</a>
         </nav>
       </div>
     </header>
