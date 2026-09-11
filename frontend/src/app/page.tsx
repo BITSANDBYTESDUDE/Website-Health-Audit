@@ -349,7 +349,7 @@ function Cta() {
               View previous audits
             </Link>
             <a href="http://bitsandbytesdude.vercel.app" target="_blank" rel="noopener noreferrer" className="inline-flex h-12 items-center rounded-xl border border-border bg-card px-7 text-[15px] font-medium hover:bg-muted" style={{ marginLeft: '12px' }}>
-              Visit BITSANDBYTESDUDE
+              Powered by BITSANDBYTESDUDE
             </a>
           </div>
         </div>
