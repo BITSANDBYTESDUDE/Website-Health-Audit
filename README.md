@@ -109,3 +109,5 @@ curl -X POST http://localhost:8787/api/audits \
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+Powered By <a href="https://bitsandbytesdude.vercel.app" target="_blank">BITSANDBYTESDUDE</a>
